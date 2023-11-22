@@ -1,0 +1,25 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","vist website","launch","go to the website","start"
+            ],
+            "responses":["open"
+            ]
+        },    
+        {
+            "tag":"youtube",
+            "patterns":["search","youtube","video","show"
+            ],
+            "responses":["youtube"
+            ]
+        },    
+        {
+            "tag":"whatsapp",
+            "patterns":["bhejdo","send","message","chat"
+            ],
+            "responses":["whatsapp"
+            ]
+        }    
+    ]
+}

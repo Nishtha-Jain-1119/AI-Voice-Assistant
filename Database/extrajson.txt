@@ -1,0 +1,54 @@
+{
+            "tag":"greet",
+            "patterns":["hello","hey","hi","jarvis","wake up","are you here"
+            ],
+            "responses":["Hello sir",
+            "How are you sir? It's good to see you.",
+            "Always here for you sir",
+            "Hi Sir, How are you doing?",
+            "Here's you assistent, Sir.",
+            "It's good to see you again, Sir.",
+            "Hii Sir, What can I do for you.",
+            "welcome back sir"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye-bye","good bye","see you later","see you next time","that's it for today","work done","exit"
+            ],
+            "responses":["bye-bye sir",
+            "good bye sir","bye-bye sir,will be waiting for your next command",
+            "it was nice meeting you,see you later",
+            "see you later sir",
+            "it'll be nice to meet you again, Sir",
+            "it was pleasure to work for you",
+            "hope I'll meet you again sir.",
+            "good bye sir, have a nice day"
+            ]
+        },
+        {
+            "tag":"chit-chat",
+            "patterns":["how are you?","how you doing","what's up","are you fine","are you good","how you","doing well?"
+            ],
+            "responses":["I am fine sir.how are you doing?",
+            "perfectly fine sir",
+            "Always ready to assist you sir",
+            "alway here for you sir","i am good sir. how about you?",
+            "i'm fine sir. thank you for asking",
+            "cool sir and you?",
+            "feeling good sir",
+            "hope you are doing well too."
+            ]
+        },
+
+
+
+        // {
+        //     "tag":"",
+        //     "patterns":[""
+        //     ],
+        //     "responses":[""
+        //     ]
+        // }
+
+        

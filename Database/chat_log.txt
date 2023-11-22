@@ -1,0 +1,79 @@
+
+You : what is globalization 
+Jarvis : Globalization is the process of expanding world trade, contacts among societies, and the sharing of ideas around the world.
+You : what in 4/0? 
+Jarvis : There is no answer to that question.
+You : what is four divided by zero 
+Jarvis : There is no answer to that question.
+You : what is sun 
+Jarvis : The sun is a star that is located in the Milky Way galaxy. It is about 150,000 times the size of Earth and has the mass of about 333,000 Earths.
+You : distance of sun and moon 
+Jarvis : There is no definitive answer to that question since the distance between the sun and moon is constantly changing. However, on average, the sun is about 384,400 kilometers away from the moon.
+You : my name is Nishtha Jain. 
+Jarvis : Hello Nishtha Jain! It's nice to meet you.
+You : I am 20 years old 
+Jarvis : You are 20 years old.
+You : tell me about myself now 
+Jarvis : There is not much to say about you at the moment since you have not provided much information. You are 20 years old and your name is Nishtha Jain. That is all I know about you at the moment.
+You : that's great 
+Jarvis : I'm glad you think so!
+You : what is python 
+Jarvis : Python is a programming language that is widely used in many different fields, such as web development, data science, and software engineering.
+You : hello javed how are you 
+Jarvis : Hello Javed, I am doing well. How are you?
+You : tell me what is globalization 
+Jarvis : Globalization is the process of expanding world trade, contacts among societies, and the sharing of ideas around the world.
+You : nice job now tell me what is 2 plus 3 
+Jarvis : 2 plus 3 equals 5.
+You : ok no tell me what is the distance between earth and sun 
+Jarvis : There is no definitive answer to that question since the distance between the sun and earth is constantly changing. However, on average, the sun is about 150 million kilometers away from the earth.
+You : ok tell me the list of all the planets 
+Jarvis : There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+You : ok can you visit leetcode 
+Jarvis : There is no answer to that question.
+You : visit leetcode 
+Jarvis : There is no answer to that question.
+You : Stop 
+Jarvis : There is no answer to that question.
+You : hi how are you 
+Jarvis : Hello, I am doing well. How are you?
+You : Good 9 Can You Please Visit Song 
+Jarvis : There is no answer to that question.
+You : ok can you please visit website for key 
+Jarvis : There is no answer to that question.
+You : visit leetcode 
+Jarvis : There is no answer to that question.
+You : desert leetcode 
+Jarvis : There is no answer to that question.
+You : leetcode 
+Jarvis : There is no answer to that question.
+You : hello javed how are you 
+Jarvis : Hello Javed, I am doing well. How are you?
+You : Gotu Song Soldier 
+Jarvis : There is no answer to that question.
+You : tell me what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : tell me what is for square four multiply by zero 
+Jarvis : There is no answer to that question.
+You : Quotation 
+Jarvis : There is no answer to that question.
+You : what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : Launcher 
+Jarvis : There is no answer to that question.
+You : tell me what is globalization 
+Jarvis : Globalization is the process of expanding world trade, contacts among societies, and the sharing of ideas around the world.
+You : what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : hi darling how are you 
+Jarvis : Hello, I am doing well. How are you?
+You : ok jarvis tell me what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : had left 
+Jarvis : There is no answer to that question.
+You : hello jarvis can you tell me what is photosynthesis 
+Jarvis : Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy.
+You : Brick brick brick brick 
+Jarvis : There is no answer to that question.
